@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\Agustin\\Desktop\\school\\jpgdegens\\contracts\\helloworld.sol": {
-      "lastModificationDate": 1649432734571,
-      "contentHash": "3ffc95466dcb9f9808ad997b887c0e81",
+      "lastModificationDate": 1649444628233,
+      "contentHash": "3c2cbd6b981946bb2ddb15b48b981330",
       "sourceName": "contracts/helloworld.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -33,7 +33,7 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "helloWorld"
+        "HelloWorld"
       ]
     }
   }
